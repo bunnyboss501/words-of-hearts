@@ -102,6 +102,16 @@ padding: 10px;
     display:none;
 }
 
+.footer{
+  background-color:rgba(35,35,35,255);
+  text-align: center;
+  height: 120px;
+  width:100%;
+}
+    
+    
+    
+    
 @keyframes enlarge{
     0%
     {
