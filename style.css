@@ -103,18 +103,16 @@ padding: 10px;
 }
 
 .footer{
-  background-color:rgba(35,35,35,255);
-  text-align: center;
-  height: 120px;
-  width:100%;
-}
-    
-.footer > ul
-{
-  float: left;
-}
-    
-    
+    background-color:rgba(35,35,35,255);
+    text-align: center;
+    height: 120px;
+  }
+      
+  .footer > ul > li
+  {
+    list-style: none;
+  }
+
 @keyframes enlarge{
     0%
     {
