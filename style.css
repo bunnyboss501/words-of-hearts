@@ -109,7 +109,10 @@ padding: 10px;
   width:100%;
 }
     
-    
+.footer > ul
+{
+  float: left;
+}
     
     
 @keyframes enlarge{
